@@ -1,0 +1,1 @@
+export const validImgFormat = ['image/jpg','image/png','image/jpeg ']

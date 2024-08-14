@@ -1,0 +1,5 @@
+/mongo
+/node_modules
+/mongo-test
+.env
+.env.test
